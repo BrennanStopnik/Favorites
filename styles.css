@@ -2,3 +2,8 @@ h1 {
     color: darkred;
     border: 2px solid blue
 }
+
+li {
+    color:rgb(15, 146, 228);
+    border: 4px dashed darkgreen;
+}
